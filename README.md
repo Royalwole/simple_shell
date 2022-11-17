@@ -1,1 +1,1 @@
-my simple shell ox16
+simple_shell
